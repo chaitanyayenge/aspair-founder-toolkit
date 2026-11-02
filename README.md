@@ -46,6 +46,15 @@ This is an illustrative example, not a real Aspair member or success story.
 - [Student founder guides](https://www.aspair.in/student-founders)
 - [Free startup tools](https://www.aspair.in/startup-tools)
 
+### Choose a practical next step
+
+These related helpers are hosted on Aspair and can be used without creating an account. They are separate from the offline tools in this repository.
+
+- [Founder capacity planner](https://www.aspair.in/founder-capacity-planner): estimate a weekly commitment around work, study and other responsibilities.
+- [Advisor meeting planner](https://www.aspair.in/startup-advisor-meeting-planner): prepare one decision, the available evidence and a focused meeting agenda.
+- [Startup experiment planner](https://www.aspair.in/startup-experiment-planner): write an assumption, a small test and a decision rule before collecting evidence.
+- [Founder field guides and resource library](https://www.aspair.in/resources): customer interviews, team ownership, first product scope, pilots and weekly reviews.
+
 This repository contains only the standalone toolkit and its documentation. Aspair’s member app, authentication, profiles, chats, admin portal and infrastructure are outside its scope.
 
 ## Contributing
@@ -57,4 +66,5 @@ Useful contributions include clearer prompts, accessibility fixes and reproducib
 This standalone toolkit is available under the [MIT License](LICENSE). You may use, modify and redistribute its code, including commercially, subject to the license notice. The license covers this toolkit only. Aspair trademarks, branding rights, proprietary member application, infrastructure and member data are excluded.
 
 Operated by OXOBOT ROBOTICS PRIVATE LIMITED. Product support: founder@aspair.in.
+
 
